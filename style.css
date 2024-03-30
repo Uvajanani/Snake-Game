@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+h2{
+    font-size: 2em;    
+    color: darkgreen;
+    margin-top: 10px;
+}
+
+#msg{
+    margin-bottom: 1em;
+    margin-top: 8px;
+
+}
+
+#gameboard{
+    border: 3px solid black;
+}
+
+#score{
+    margin-top: 1em;
+    font-size: 1.2em;
+}
+
